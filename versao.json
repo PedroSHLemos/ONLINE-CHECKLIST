@@ -1,9 +1,9 @@
 {
-  "versao": "2.2.0",
-  "arquivo": "Checklist-BOX-2.2.0-atualizacao.zip",
-  "sha256": "8921b6c5e0084ce279d54200214b3ce2ee0afe4e17f1181171ef63eca44bc57a",
+  "versao": "2.2.1",
+  "arquivo": "Checklist-BOX-2.2.1-atualizacao.zip",
+  "sha256": "0474854329192b98ef0060ce6b6255b4b4d02b475465d6f56b6597bd18fb9e74",
   "tipo": "app",
   "electron": "38.8.6",
-  "data": "2026-11-23T14:36:27.147Z",
-  "notas": "Versão inicial com atualização automática."
+  "data": "2026-11-23T14:52:38.535Z",
+  "notas": "Registro de inicialização e mensagens de erro visíveis."
 }
