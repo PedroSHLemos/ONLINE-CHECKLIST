@@ -1,9 +1,9 @@
 {
-  "versao": "2.4.1",
-  "arquivo": "Checklist-BOX-2.4.1-atualizacao.zip",
-  "sha256": "31ad495a4b4edffdd9a8d1a6115353d57e7503a392ccaf6992feedf1b3a20ef9",
+  "versao": "2.5.0",
+  "arquivo": "Checklist-BOX-2.5.0-atualizacao.zip",
+  "sha256": "437fb6a2bf7ddcffc852c665fff53f6ca65eb1aaee4a435441d268267cab8fe7",
   "tipo": "app",
   "electron": "38.8.6",
-  "data": "2026-11-23T17:35:10.577Z",
-  "notas": "2.4.1: novos usuários, perfil Auditor da Qualidade (Nelson), área do Administrador (usuários, setores, fotos), login sem diferença de maiúsculas/acentos, Vacuum Bag → Autoclave."
+  "data": "2026-11-23T18:06:01.593Z",
+  "notas": "2.5.0: auditor só com a consulta dos checklists; fotos anexadas às etapas; Catálogo removido (montadoras e veículos no menu do administrador); 50 fichas de teste; revisão visual."
 }
