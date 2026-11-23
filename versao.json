@@ -1,9 +1,9 @@
 {
-  "versao": "2.3.0",
-  "arquivo": "Checklist-BOX-2.3.0-atualizacao.zip",
-  "sha256": "1cd8c1d151bf1508c5e6e93cce5cfe2ffc206a3260f12cd94aae320810d21f07",
+  "versao": "2.3.1",
+  "arquivo": "Checklist-BOX-2.3.1-atualizacao.zip",
+  "sha256": "bbdaa20bca0c6a59a8485b860222c2509956d56ef829e9d8d1253aa1a3f9d663",
   "tipo": "app",
   "electron": "38.8.6",
-  "data": "2026-11-23T17:04:40.188Z",
-  "notas": "2.3.0: Excel no formato da folha de papel; ordem/SAP do forno pelo Forno; catálogo protegido (PEDRO); painel sem indicadores."
+  "data": "2026-11-23T17:13:00.513Z",
+  "notas": "2.3.1: instalação de atualizações mais confiável no Windows."
 }
