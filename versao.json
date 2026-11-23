@@ -1,9 +1,9 @@
 {
-  "versao": "2.2.1",
-  "arquivo": "Checklist-BOX-2.2.1-atualizacao.zip",
-  "sha256": "0474854329192b98ef0060ce6b6255b4b4d02b475465d6f56b6597bd18fb9e74",
+  "versao": "2.3.0",
+  "arquivo": "Checklist-BOX-2.3.0-atualizacao.zip",
+  "sha256": "1cd8c1d151bf1508c5e6e93cce5cfe2ffc206a3260f12cd94aae320810d21f07",
   "tipo": "app",
   "electron": "38.8.6",
-  "data": "2026-11-23T14:52:38.535Z",
-  "notas": "Registro de inicialização e mensagens de erro visíveis."
+  "data": "2026-11-23T17:04:40.188Z",
+  "notas": "2.3.0: Excel no formato da folha de papel; ordem/SAP do forno pelo Forno; catálogo protegido (PEDRO); painel sem indicadores."
 }
