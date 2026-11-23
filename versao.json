@@ -1,0 +1,9 @@
+{
+  "versao": "2.2.0",
+  "arquivo": "Checklist-BOX-2.2.0-atualizacao.zip",
+  "sha256": "8921b6c5e0084ce279d54200214b3ce2ee0afe4e17f1181171ef63eca44bc57a",
+  "tipo": "app",
+  "electron": "38.8.6",
+  "data": "2026-11-23T14:36:27.147Z",
+  "notas": "Versão inicial com atualização automática."
+}
