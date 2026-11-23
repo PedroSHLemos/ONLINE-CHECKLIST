@@ -1,9 +1,9 @@
 {
-  "versao": "2.3.2",
-  "arquivo": "Checklist-BOX-2.3.2-atualizacao.zip",
-  "sha256": "ae25462a824acf0209a618b0f519f0345ff7a4042ea1a716bf24b048807f8f2b",
+  "versao": "2.4.0",
+  "arquivo": "Checklist-BOX-2.4.0-atualizacao.zip",
+  "sha256": "402e28f149ed915f859c522d3ef2cd86dcad25010a3833eac7a5e4001983f549",
   "tipo": "app",
   "electron": "38.8.6",
-  "data": "2026-11-23T17:20:24.968Z",
-  "notas": "2.3.2: 146 veículos da linha no catálogo."
+  "data": "2026-11-23T17:33:27.950Z",
+  "notas": "2.4.0: novos usuários, perfil Auditor da Qualidade (Nelson), área do Administrador (usuários, setores, fotos), login sem diferença de maiúsculas/acentos, Vacuum Bag → Autoclave."
 }
