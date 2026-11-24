@@ -1,9 +1,9 @@
 {
-  "versao": "2.6.0",
-  "arquivo": "Checklist-BOX-2.6.0-atualizacao.zip",
-  "sha256": "aecfe423e733723bf0f6fe95481b29de3890d847ba3cb73aa9c033e2574c71f2",
+  "versao": "2.6.1",
+  "arquivo": "Checklist-BOX-2.6.1-atualizacao.zip",
+  "sha256": "696a2fa8f60ee70de237e48d4418f0323ff01976c50b5f28998cb0f44a25fde1",
   "tipo": "app",
   "electron": "38.8.6",
-  "data": "2026-11-24T23:27:35.921Z",
-  "notas": "2.6.0: Pedro entra direto em Nova ficha; busca de veículo; resultado NA; Excel com índice e botão VOLTAR AO ÍNDICE; imagem da tela de login; sem Auditoria e sem fotos no preenchimento."
+  "data": "2026-11-24T23:53:33.408Z",
+  "notas": "2.6.1: Pedro entra direto em Nova ficha; busca de veículo; resultado NA; Excel com índice e botão VOLTAR AO ÍNDICE; imagem da tela de login. Atualizações chegam mais rápido."
 }
