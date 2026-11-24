@@ -1,9 +1,9 @@
 {
-  "versao": "2.5.0",
-  "arquivo": "Checklist-BOX-2.5.0-atualizacao.zip",
-  "sha256": "437fb6a2bf7ddcffc852c665fff53f6ca65eb1aaee4a435441d268267cab8fe7",
+  "versao": "2.6.0",
+  "arquivo": "Checklist-BOX-2.6.0-atualizacao.zip",
+  "sha256": "aecfe423e733723bf0f6fe95481b29de3890d847ba3cb73aa9c033e2574c71f2",
   "tipo": "app",
   "electron": "38.8.6",
-  "data": "2026-11-23T18:06:01.593Z",
-  "notas": "2.5.0: auditor só com a consulta dos checklists; fotos anexadas às etapas; Catálogo removido (montadoras e veículos no menu do administrador); 50 fichas de teste; revisão visual."
+  "data": "2026-11-24T23:27:35.921Z",
+  "notas": "2.6.0: Pedro entra direto em Nova ficha; busca de veículo; resultado NA; Excel com índice e botão VOLTAR AO ÍNDICE; imagem da tela de login; sem Auditoria e sem fotos no preenchimento."
 }
