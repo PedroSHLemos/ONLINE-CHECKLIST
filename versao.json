@@ -1,9 +1,9 @@
 {
-  "versao": "2.8.0",
-  "arquivo": "Checklist-BOX-2.8.0-atualizacao.zip",
-  "sha256": "bb13ddc27d8204fec8d868a6576f6abb4fa59f62b576a9ce2472cb678a0b09ad",
+  "versao": "2.8.1",
+  "arquivo": "Checklist-BOX-2.8.1-atualizacao.zip",
+  "sha256": "68f9e9973296c0791fe22220cffc2fc00b9d10439c6dbb44b0061d7f88102353",
   "tipo": "app",
   "electron": "38.8.6",
-  "data": "2026-11-25T00:26:41.429Z",
-  "notas": "2.8.0: fotos dos veículos e montadoras, logo NSG/Pilkington em 3D e acabamento visual."
+  "data": "2026-11-25T00:34:22.252Z",
+  "notas": "2.8.1: logo NSG/Pilkington em destaque na tela de login."
 }
