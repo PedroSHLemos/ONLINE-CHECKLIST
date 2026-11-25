@@ -2,4 +2,4 @@
 
 Ramo usado pela atualização automática do aplicativo. Não apague nem altere.
 
-Versão atual: **2.9.0** (2026-11-25)
+Versão atual: **2.10.0** (2026-11-25)

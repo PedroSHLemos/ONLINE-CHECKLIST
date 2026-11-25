@@ -1,9 +1,9 @@
 {
-  "versao": "2.9.0",
-  "arquivo": "Checklist-BOX-2.9.0-atualizacao.zip",
-  "sha256": "819032658f9a37d352a1d550d501283d96c233a3f85a477fba25dae62dcd0d89",
+  "versao": "2.10.0",
+  "arquivo": "Checklist-BOX-2.10.0-atualizacao.zip",
+  "sha256": "6357deea01fd3e22a59871f7ff7b770137055459dd935af95fa8c4174a51f064",
   "tipo": "app",
   "electron": "38.8.6",
-  "data": "2026-11-25T00:46:54.014Z",
-  "notas": "Excel: nova aba Pesquisar (filtra por nº, veículo, marca, ordem, situação e datas, com botão Abrir em cada ficha) e botão PESQUISAR FICHAS no índice."
+  "data": "2026-11-25T22:59:22.388Z",
+  "notas": "Nova opção Pasta da rede: as fichas ficam numa pasta compartilhada e todos os PCs usam as mesmas, sem PC servidor. Telas atualizam sozinhas."
 }
