@@ -1,9 +1,9 @@
 {
-  "versao": "2.8.1",
-  "arquivo": "Checklist-BOX-2.8.1-atualizacao.zip",
-  "sha256": "68f9e9973296c0791fe22220cffc2fc00b9d10439c6dbb44b0061d7f88102353",
+  "versao": "2.9.0",
+  "arquivo": "Checklist-BOX-2.9.0-atualizacao.zip",
+  "sha256": "819032658f9a37d352a1d550d501283d96c233a3f85a477fba25dae62dcd0d89",
   "tipo": "app",
   "electron": "38.8.6",
-  "data": "2026-11-25T00:34:22.252Z",
-  "notas": "2.8.1: logo NSG/Pilkington em destaque na tela de login."
+  "data": "2026-11-25T00:46:54.014Z",
+  "notas": "Excel: nova aba Pesquisar (filtra por nº, veículo, marca, ordem, situação e datas, com botão Abrir em cada ficha) e botão PESQUISAR FICHAS no índice."
 }
