@@ -1,9 +1,9 @@
 {
-  "versao": "2.7.0",
-  "arquivo": "Checklist-BOX-2.7.0-atualizacao.zip",
-  "sha256": "fc82e908be38011a30edf966eba3601d10c2072405274575a7b151ce716c0a95",
+  "versao": "2.8.0",
+  "arquivo": "Checklist-BOX-2.8.0-atualizacao.zip",
+  "sha256": "bb13ddc27d8204fec8d868a6576f6abb4fa59f62b576a9ce2472cb678a0b09ad",
   "tipo": "app",
   "electron": "38.8.6",
-  "data": "2026-11-25T00:05:55.881Z",
-  "notas": "2.7.0: vários PCs nas mesmas fichas — escolha Servidor neste PC e Terminal nos outros."
+  "data": "2026-11-25T00:26:41.429Z",
+  "notas": "2.8.0: fotos dos veículos e montadoras, logo NSG/Pilkington em 3D e acabamento visual."
 }
