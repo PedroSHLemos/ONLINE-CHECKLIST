@@ -1,9 +1,9 @@
 {
-  "versao": "2.11.0",
-  "arquivo": "Checklist-BOX-2.11.0-atualizacao.zip",
-  "sha256": "ac3af616a374af36d0ef7537f193145bac42687e5d29572bdc8f88cba4e2e3b3",
+  "versao": "2.12.0",
+  "arquivo": "Checklist-BOX-2.12.0-atualizacao.zip",
+  "sha256": "799495a8ffe1a4a91abdac41a157a7431acf54ba240773193a0b444d81c2bbfe",
   "tipo": "app",
   "electron": "38.8.6",
-  "data": "2026-11-26T15:00:20.345Z",
-  "notas": "Pasta da rede mais rápida: o app não congela mais quando a rede demora, só relê as fichas quando outro PC grava, e guarda as fotos no PC."
+  "data": "2026-11-26T17:14:19.558Z",
+  "notas": "Pasta da rede reformulada: cada PC trabalha com sua cópia (telas instantâneas) e troca as novidades com a pasta por trás, com o botão Atualizar agora. Funciona mesmo com a rede fora do ar."
 }
