@@ -1,9 +1,9 @@
 {
-  "versao": "2.12.0",
-  "arquivo": "Checklist-BOX-2.12.0-atualizacao.zip",
-  "sha256": "799495a8ffe1a4a91abdac41a157a7431acf54ba240773193a0b444d81c2bbfe",
+  "versao": "2.12.1",
+  "arquivo": "Checklist-BOX-2.12.1-atualizacao.zip",
+  "sha256": "ce17bef4c35226f14dbfa9d93e374ad396b4f0ded916bd411892fd41b06db862",
   "tipo": "app",
   "electron": "38.8.6",
-  "data": "2026-11-26T17:14:19.558Z",
-  "notas": "Pasta da rede reformulada: cada PC trabalha com sua cópia (telas instantâneas) e troca as novidades com a pasta por trás, com o botão Atualizar agora. Funciona mesmo com a rede fora do ar."
+  "data": "2026-11-26T17:34:33.105Z",
+  "notas": "A sincronização automática a cada 20 s foi retirada: o PC recebe as novidades ao abrir e no botão Atualizar agora. O que você salva continua sendo enviado na hora."
 }
