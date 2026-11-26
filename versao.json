@@ -1,9 +1,9 @@
 {
-  "versao": "2.10.0",
-  "arquivo": "Checklist-BOX-2.10.0-atualizacao.zip",
-  "sha256": "6357deea01fd3e22a59871f7ff7b770137055459dd935af95fa8c4174a51f064",
+  "versao": "2.11.0",
+  "arquivo": "Checklist-BOX-2.11.0-atualizacao.zip",
+  "sha256": "ac3af616a374af36d0ef7537f193145bac42687e5d29572bdc8f88cba4e2e3b3",
   "tipo": "app",
   "electron": "38.8.6",
-  "data": "2026-11-25T22:59:22.388Z",
-  "notas": "Nova opção Pasta da rede: as fichas ficam numa pasta compartilhada e todos os PCs usam as mesmas, sem PC servidor. Telas atualizam sozinhas."
+  "data": "2026-11-26T15:00:20.345Z",
+  "notas": "Pasta da rede mais rápida: o app não congela mais quando a rede demora, só relê as fichas quando outro PC grava, e guarda as fotos no PC."
 }
